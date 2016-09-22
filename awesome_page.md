@@ -1,4 +1,4 @@
-**This text is bold**
+**This is bold**
 *this is italic*
 `<head></head>`
 [Google](https://www.google.com/)
